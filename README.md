@@ -58,7 +58,7 @@ Model Popularity (listing counts)
 
 This deeper analysis helps clearly separate model-specific trends from broader economic influences and provides targeted insights valuable for marketing, competitive strategy, and customer decision-making.
 
-## Paricipants in the project: 
+## Participants in the project: 
 Nassir Almotairi ,Abdullah Alqurashi, Rayan Majed and Mohammad Saad
 
 
